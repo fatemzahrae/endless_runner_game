@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|c:\\users\\hp\\desktop\\personalprojects\\endless_runner_game\\runner game\\assets\\scripts\\swipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\swipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\assets\\scripts\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\assets\\scripts\\tilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E368B169-0304-D03C-FE11-4956C43702D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwipeManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\Assets\\Scripts\\SwipeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SwipeManager.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\Assets\\Scripts\\SwipeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SwipeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:10:25.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\Assets\\Scripts\\Events.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Events.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\Assets\\Scripts\\Events.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Events.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:46:45.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerManager.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:17:14.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TileManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\Assets\\Scripts\\TileManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TileManager.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\Assets\\Scripts\\TileManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TileManager.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:00:08.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\personalProjects\\endless_runner_game\\Runner Game\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:58:51.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
